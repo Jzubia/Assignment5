@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="Assignment5Client:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Assignment5Client_jar</output-path>
+    <root id="root">
+      <element id="archive" name="Assignment5.jar">
+        <element id="module-output" name="Assignment5" />
+      </element>
+    </root>
+  </artifact>
+</component>
